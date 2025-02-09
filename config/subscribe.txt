@@ -1,6 +1,7 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 https://raw.bgithub.xyz/ddgddgddgddgddg/110/refs/heads/main/110
+https://raw.bgithub.xyz/ddgddgddgddgddg/110/refs/heads/main/zz
 # 这是2025年2月6日在线的
 #   这是给钱的
 https://d.kstore.dev/download/9771/nmg012345678/20250206nmg012345678.txt
