@@ -1,9 +1,11 @@
-# 这是订阅源列表，每行一个订阅地址
-# This is a list of subscription sources, with one subscription address per line
 https://raw.bgithub.xyz/ddgddgddgddgddg/110/refs/heads/main/110
 https://raw.bgithub.xyz/ddgddgddgddgddg/110/refs/heads/main/zz
-# 这是2025年2月6日在线的
-#   这是给钱的
+http://aktv.space/live.m3u
+https://php.666230.xyz/test.m3u
+http://8.138.7.223/tv.txt
+https://mzjk.top/zb.txt
+https://mzjk.top/zb1.txt
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
 https://d.kstore.dev/download/9771/nmg012345678/20250206nmg012345678.txt
 http://8.138.7.223/live.txt
 http://8.138.7.223/v12.txt
@@ -39,31 +41,22 @@ https://d.kstore.dev/download/9771/nmg012345678/B20211120.txt
 https://d.kstore.dev/download/9771/nmg012345678/C20241120.txt
 https://d.kstore.dev/download/9771/nmg012345678/C20241119.txt
 https://d.kstore.dev/download/9771/nmg012345678/C20241118.txt
-
-#   来源https://bgithub.xyz/zwc456baby/iptv_alive/tree/master
 https://raw.bgithub.xyz/zwc456baby/iptv_alive/refs/heads/master/live.txt
-#    来源https://bgithub.xyz/fanmingming/live/tree/main
 https://raw.bgithub.xyz/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
 https://raw.bgithub.xyz/fanmingming/live/refs/heads/main/tv/m3u/itv.m3u
 https://raw.bgithub.xyz/fanmingming/live/refs/heads/main/tv/m3u/index.m3u
-#   来源https://bgithub.xyz/ngo5/IPTV
 https://raw.bgithub.xyz/ngo5/IPTV/refs/heads/main/m3u/Heilongjiangipv4chinamobilePLTV.txt
 https://raw.bgithub.xyz/ngo5/IPTV/refs/heads/main/m3u/ipv6.m3u
 https://raw.bgithub.xyz/ngo5/IPTV/refs/heads/main/m3u/ipv4.m3u
-#    来源https://bgithub.xyz/Rivens7/Livelist
 https://raw.bgithub.xyz/Rivens7/Livelist/refs/heads/main/IPTV.m3u
 https://raw.bgithub.xyz/Rivens7/Livelist/refs/heads/main/CNTV.m3u
 https://raw.bgithub.xyz/Rivens7/Livelist/refs/heads/main/CCTV.m3u
-#   来源https://bgithub.xyz/Cyril0563/lanjing_live
 https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/IPTV_FREE/M3U%E6%A0%BC%E5%BC%8F%E7%9B%B4%E6%92%AD%E6%BA%90.txt
 https://raw.bgithub.xyz/Cyril0563/lanjing_live/main/IPTV_FREE/live.m3u
 https://raw.bgithub.xyz/Cyril0563/lanjing_live/refs/heads/main/IPTV_FREE/zb.txt
-#   来源https://raw.bgithub.xyz/Cyril0563/lanjing_live/refs/heads/main/IPTV_FREE/zb.txt
 https://raw.bgithub.xyz/YanG-1989/m3u/refs/heads/main/Migu.m3u
 https://raw.bgithub.xyz/YanG-1989/m3u/refs/heads/main/Gather.m3u
-#   来源https://bgithub.xyz/zwc456baby/iptv_alive?tab=readme-ov-file
 https://raw.bgithub.xyz/zwc456baby/iptv_alive/refs/heads/master/live.txt
-#   来源https://bgithub.xyz/dongyubin/IPTV?tab=readme-ov-file
 https://myernestlu.github.io/zby.txt
 https://raw.bgithub.xyz/Ftindy/IPTV-URL/main/bestv.m3u #百视通源
 https://raw.bgithub.xyz/Ftindy/IPTV-URL/main/cqyx.m3u #重庆广电源
@@ -74,12 +67,10 @@ https://raw.bgithub.xyz/zbefine/iptv/main/iptv.m3u #zbefine源
 https://raw.bgithub.xyz/vamoschuck/TV/main/M3U #茶客源
 https://x-x-xxx.github.io/diyp/tv.txt #diyp源
 https://testingcf.jsdelivr.net/gh/YueChan/Live@main/IPTV.m3u
-直链：
 https://xxy.free.hr/YIPTV.m3u
 https://iptv.228088.xyz/cn.m3u
 https://live.fanmingming.com/tv/m3u/ipv6.m3u
 https://testingcf.jsdelivr.net/gh/whpsky/iptv@main/chinatv.m3u
-# 检测日期：2024年6月6日  总：1926 在线：1240 离线：686
 https://raw.bgithub.xyz/BigBigGrandG/IPTV-URL/release/Gather.m3u #BigBigGrandG源，有部分IPv6
 https://raw.bgithub.xyz/Kimentanm/aptv/master/m3u/iptv.m3u #Kimentanm源，有部分IPv6
 https://raw.bgithub.xyz/YanG-1989/m3u/main/Gather.m3u #YanG集合源，有部分IPv6
@@ -102,13 +93,9 @@ https://iptv-org.github.io/iptv/index.m3u
 https://raw.bgithub.xyz/joevess/IPTV/main/home.m3u8
 https://raw.bgithub.xyz/joevess/IPTV/main/iptv.m3u8
 https://raw.bgithub.xyz/Free-TV/IPTV/master/playlist.m3u8
-# F1TV IPTV源 （仅比赛期间有信号）
 https://mashaf1.cn/F1.m3u
-#  来源https://bgithub.xyz/Supprise0901/TVBox_live/tree/main
 https://raw.bgithub.xyz/Supprise0901/TVBox_live/refs/heads/main/live.txt
-#   来源https://bgithub.xyz/YueChan/Live
 https://raw.bgithub.xyz/YueChan/Live/refs/heads/main/APTV.m3u
-#   来源https://bgithub.xyz/kimwang1978/collect-tv-txt?tab=readme-ov-file
 https://raw.bgithub.xyz/kimwang1978/collect-tv-txt/refs/heads/main/%E4%B8%93%E5%8C%BA/4K.txt
 https://raw.bgithub.xyz/kimwang1978/collect-tv-txt/refs/heads/main/%E4%B8%93%E5%8C%BA/AKTV.txt
 https://raw.bgithub.xyz/kimwang1978/collect-tv-txt/refs/heads/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E4%B8%93%E4%BA%AB%E6%BA%90%E2%91%A0.txt
@@ -117,14 +104,11 @@ https://raw.bgithub.xyz/kimwang1978/collect-tv-txt/refs/heads/main/%E4%B8%93%E5%
 https://raw.bgithub.xyz/kimwang1978/collect-tv-txt/refs/heads/main/live.txt
 https://raw.bgithub.xyz/kimwang1978/collect-tv-txt/refs/heads/main/live_lite.txt
 https://live.iptv365.org/live.txt
-#   来源https://bgithub.xyz/vbskycn/iptv/tree/master
 https://live.zbds.top/tv/iptv6.txt
 https://live.zbds.top/tv/iptv4.txt
 https://raw.bgithub.xyz/vbskycn/iptv/refs/heads/master/tv/iptv4.txt
 https://raw.bgithub.xyz/vbskycn/iptv/refs/heads/master/tv/iptv6.txt
 https://raw.bgithub.xyz/vbskycn/iptv/refs/heads/master/tv/hd.txt
-
-#   这是网上找的
 http://106.53.99.30/vip.txt
 http://175.178.251.183:6689/live.txt
 http://php.666230.xyz/202501.txt
@@ -137,8 +121,6 @@ http://home.jundie.top:81/top98.json
 http://xhztv.top/cytx.txt
 http://meowtv.top/zb
 https://gh.tryxd.cn/raw.bgithub.xyz/suxuang/myIPTV/main/ipv6.m3u
-
-# 这是2025年2月6日离线的
 http://110.40.61.139:2189/live.php
 http://kxrj.site:55/lib/kx2024.txt
 http://rihou.cc:567/gggg.nzk
