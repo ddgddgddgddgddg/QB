@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="TVB" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB.png" group-title="🕘️更新时间",2025-09-02 12:54:16
+#EXTINF:-1 tvg-name="TVB" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB.png" group-title="🕘️更新时间",2025-09-03 12:58:29
 http://nas.809899.xyz:9999/公众号【睡眼迷离的猫】/gzyx.php?channel=FCT1
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🌊港·澳·台",翡翠台
 http://nas.809899.xyz:9999/公众号【睡眼迷离的猫】/gzyx.php?channel=FCT1
@@ -54,7 +54,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🌊港·澳·台",翡翠台
 http://www.namewee.xyz/gudou.php?id=1350
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🌊港·澳·台",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct2$订阅源
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3$订阅源
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🌊港·澳·台",翡翠台
 http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8$订阅源
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🌊港·澳·台",翡翠台
@@ -164,7 +164,7 @@ http://198.16.100.186:8278/phoenixinfo_hd/playlist.m3u8?tid=mc42afe745533&ct=115
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
-http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd$订阅源
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2$订阅源
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
 https://cdn3.163189.xyz/live/fhzx/stream.m3u8$订阅源
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
@@ -5765,6 +5765,8 @@ https://mursor.ottiptv.cc/migu/626064714.m3u8?migutoken=0789157cccd1f020cf5c1ccb
 http://z.b.bkpcp.top/m.php?id=jsys$订阅源
 #EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏影视.png" group-title="☘️江苏频道",江苏影视
 https://migu.188766.xyz/?migutoken=91756b74eb13850e4c87b15c25817e42&id=%E6%B1%9F%E8%8B%8F%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&type=yy$订阅源
+#EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏影视.png" group-title="☘️江苏频道",江苏影视
+https://mursor.ottiptv.cc/migu/626064697.m3u8?migutoken=b73f8d78cfb5fb25d1b0e54e8b651db35d48ff071c6fe1f7826fcc4e6212a20ba7c8991185d03743da42bafdff874a4a03b5df60e7c2aa293ad3b34997faa082e300149433e3b1c2694909770b$订阅源
 #EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏教育.png" group-title="☘️江苏频道",江苏教育
 http://z.b.bkpcp.top/m.php?id=jsjy$订阅源
 #EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏教育.png" group-title="☘️江苏频道",江苏教育
@@ -5793,6 +5795,8 @@ http://z.b.bkpcp.top/m.php?id=szxwzh$订阅源
 http://z.b.bkpcp.top/m.php?id=lygxwzh$订阅源
 #EXTINF:-1 tvg-name="连云港新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/连云港新闻综合.png" group-title="☘️江苏频道",连云港新闻综合
 https://migu.188766.xyz/?migutoken=1b0d5ada0a7a68f9bc0ad66f4464a69d&id=%E8%BF%9E%E4%BA%91%E6%B8%AF%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy$订阅源
+#EXTINF:-1 tvg-name="连云港新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/连云港新闻综合.png" group-title="☘️江苏频道",连云港新闻综合
+https://mursor.ottiptv.cc/migu/639731715.m3u8?migutoken=95ec9e5e08128c5eb4439c9ed02c10824b83bcbcbd598d08b91a44abc0c7b912b5aeb8415f2bf9d9e8c0007dcf164a961107d2f9af40c6d42bb5218c84a9428e5b7b66a00e5cdde5c1d164bf09$订阅源
 #EXTINF:-1 tvg-name="靖江新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/靖江新闻综合.png" group-title="☘️江苏频道",靖江新闻综合
 http://ls.qingting.fm/live/23797.m3u8$订阅源
 #EXTINF:-1 tvg-name="辽宁经济" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁经济.png" group-title="☘️辽宁频道",辽宁经济
@@ -6507,6 +6511,8 @@ http://live.cztv.cc:85/live/xwpd.m3u8$订阅源
 http://live.cztv.cc:85/live/ggpd.m3u8$订阅源
 #EXTINF:-1 tvg-name="滁州公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/滁州公共.png" group-title="☘️安徽频道",滁州公共
 http://live.cztv.cc:85/live/ggpd.m3u8?zanhd#http://live.cztv.cc:85/live/ggpd.m3u8$订阅源
+#EXTINF:-1 tvg-name="宿松新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宿松新闻综合.png" group-title="☘️安徽频道",宿松新闻综合
+http://live.ahsz.tv/video/s10001-szzh/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="宿州科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宿州科教.png" group-title="☘️安徽频道",宿州科教
 http://live.ahsz.tv/video/s10001-kxjy/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="宿州科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宿州科教.png" group-title="☘️安徽频道",宿州科教
