@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="TVB" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB.png" group-title="🕘️更新时间",2025-12-11 13:09:10
+#EXTINF:-1 tvg-name="TVB" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB.png" group-title="🕘️更新时间",2025-12-12 13:09:08
 http://nas.809899.xyz:9999/公众号【睡眼迷离的猫】/gzyx.php?channel=FCT1
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🌊港·澳·台",翡翠台
 http://nas.809899.xyz:9999/公众号【睡眼迷离的猫】/gzyx.php?channel=FCT1
@@ -164,7 +164,7 @@ http://198.16.100.186:8278/phoenixinfo_hd/playlist.m3u8?tid=mc42afe745533&ct=115
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
-http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd$订阅源
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2$订阅源
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
 https://cdn3.163189.xyz/live/fhzx/stream.m3u8$订阅源
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
@@ -5943,8 +5943,16 @@ https://mgtv.ottiptv.cc/mg/628008321.m3u8?sign=42fbc7d5ecee3d7514da7487637571af&
 http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd#http://live1.habctv.com/ggpdsl/sd/live.m3u8$订阅源
 #EXTINF:-1 tvg-name="涟水电视台综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/涟水电视台综合.png" group-title="☘️江苏频道",涟水电视台综合
 http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd#http://live1.habctv.com/ggpdsl/sd/live.m3u8$订阅源
+#EXTINF:-1 tvg-name="涟水电视台综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/涟水电视台综合.png" group-title="☘️江苏频道",涟水电视台综合
+https://lianshui-tv-hls.cm.jstv.com:443/lianshui-tv/lsxw.m3u8$订阅源
+#EXTINF:-1 tvg-name="涟水电视台综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/涟水电视台综合.png" group-title="☘️江苏频道",涟水电视台综合
+http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8?zjiangsd,$订阅源
 #EXTINF:-1 tvg-name="涟水综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/涟水综合.png" group-title="☘️江苏频道",涟水综合
 http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd#http://live1.habctv.com/ggpdsl/sd/live.m3u8$订阅源
+#EXTINF:-1 tvg-name="涟水综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/涟水综合.png" group-title="☘️江苏频道",涟水综合
+https://lianshui-tv-hls.cm.jstv.com:443/lianshui-tv/lsxw.m3u8$订阅源
+#EXTINF:-1 tvg-name="涟水综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/涟水综合.png" group-title="☘️江苏频道",涟水综合
+http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8?zjiangsd,$订阅源
 #EXTINF:-1 tvg-name="淮安公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/淮安公共.png" group-title="☘️江苏频道",淮安公共
 http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd#http://live1.habctv.com/ggpdsl/sd/live.m3u8$订阅源
 #EXTINF:-1 tvg-name="淮安影院娱乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/淮安影院娱乐.png" group-title="☘️江苏频道",淮安影院娱乐
